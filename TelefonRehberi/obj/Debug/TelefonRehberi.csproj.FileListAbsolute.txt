@@ -1,0 +1,31 @@
+c:\users\lab1-bil0\documents\visual studio 2013\Projects\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe.config
+c:\users\lab1-bil0\documents\visual studio 2013\Projects\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe
+c:\users\lab1-bil0\documents\visual studio 2013\Projects\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.pdb
+c:\users\lab1-bil0\documents\visual studio 2013\Projects\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csprojResolveAssemblyReference.cache
+c:\users\lab1-bil0\documents\visual studio 2013\Projects\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Properties.Resources.resources
+c:\users\lab1-bil0\documents\visual studio 2013\Projects\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.GenerateResource.Cache
+c:\users\lab1-bil0\documents\visual studio 2013\Projects\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.exe
+c:\users\lab1-bil0\documents\visual studio 2013\Projects\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.pdb
+c:\users\lab1-bil0\documents\visual studio 2013\Projects\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Form1.resources
+C:\Users\Lab1-Bil0\Desktop\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe.config
+C:\Users\Lab1-Bil0\Desktop\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.exe
+C:\Users\Lab1-Bil0\Desktop\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.pdb
+C:\Users\Lab1-Bil0\Desktop\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe
+C:\Users\Lab1-Bil0\Desktop\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.pdb
+C:\Users\Lab1-Bil0\Desktop\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csprojResolveAssemblyReference.cache
+C:\Users\Lab1-Bil0\Desktop\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Form1.resources
+C:\Users\Lab1-Bil0\Desktop\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Properties.Resources.resources
+C:\Users\Lab1-Bil0\Desktop\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.GenerateResource.Cache
+C:\Users\Lab1-Bil0\Desktop\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Rehber.resources
+D:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe.config
+D:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe
+D:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.pdb
+D:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.AssemblyReference.cache
+D:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.SuggestedBindingRedirects.cache
+D:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Form1.resources
+D:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Properties.Resources.resources
+D:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Rehber.resources
+D:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.GenerateResource.cache
+D:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.CoreCompileInputs.cache
+D:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.exe
+D:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.pdb
